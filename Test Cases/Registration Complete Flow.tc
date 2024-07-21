@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Complete Flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b229bedc-5871-4fcf-8e25-b77d51aa70cc</testCaseGuid>
+</TestCaseEntity>
